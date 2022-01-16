@@ -3,9 +3,12 @@
 Projeto realizado durante a semana na disciplina de técninas de machine learning, pela Pontíficia Universidade Católica do Parnaná, curso de Big Data e Inteligência Analitíca
  
 O Projeto da semana 4 utiliza técnicas de machine learning para:
-	| 1 | Carregamento de um data set disponibilizado |✅ | 
+ 
+ | Etapa     | Descrição |
+ | ----------- | ----------- |
+ | 1 | Carregamento de um data set disponibilizado |✅ | 
  | 2 | Preparação dos dados |✅ |
-	| 3 | Seleção dos atributos |✅ |
+ | 3 | Seleção dos atributos |✅ |
  | 4 | Preparação de dados (base para treinamento) |✅ |
  | 5 | Definição do problema |✅ |
  | 6 | Treinamento |✅ |
