@@ -4,8 +4,8 @@ Projeto realizado durante a semana na disciplina de técninas de machine learnin
  
 O Projeto da semana 4 utiliza técnicas de machine learning para:
  
- | Etapa     | Descrição |
- | ----------- | ----------- |
+ | Etapa     | Descrição | |
+ | ----------- | ----------- |----------- |
  | 1 | Carregamento de um data set disponibilizado |✅ | 
  | 2 | Preparação dos dados |✅ |
  | 3 | Seleção dos atributos |✅ |
